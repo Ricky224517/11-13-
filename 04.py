@@ -8,5 +8,5 @@ while True:
         if x in v:
             print(v[x])
         else:
-            b = input("請輸入存在的英文單字:") 
+            b = input("請輸入英文單字的中文意思:") 
             v[x] = b
